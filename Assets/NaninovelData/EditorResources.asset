@@ -453,6 +453,12 @@ MonoBehaviour:
     - name: Memory
       pathPrefix: "Characters/\u0412\u044B"
       guid: 467231bc473787040882c55ea0abf5b3
+    - name: Red
+      pathPrefix: "Characters/\u0412\u044B"
+      guid: ba84be74aa871ba4eab7dd9ae1d5f02c
+    - name: Green
+      pathPrefix: "Characters/\u0412\u044B"
+      guid: 2e69f540d8d3da748b8c8384006e3cbe
   - Id: Unlockables
     Resources: []
   - Id: Movies
